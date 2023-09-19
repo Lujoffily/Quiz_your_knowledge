@@ -18,6 +18,12 @@ a {
     left: 20px;
 }
 
+.timer {
+    display: flex;
+    justify-content: end;
+    padding: 10px;
+}
+
 .container {
     text-align: center;
     margin-top: 50px;
